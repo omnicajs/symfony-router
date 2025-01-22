@@ -2,7 +2,7 @@
   "name": "@omnicajs/symfony-router",
   "type": "module",
   "license": "MIT",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
