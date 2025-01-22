@@ -1,5 +1,7 @@
 # @omnicajs/symfony-router
 
+[![npm version](https://img.shields.io/npm/v/@omnicajs/symfony-router.svg)](https://www.npmjs.com/package/@omnicajs/symfony-router)
+
 JavaScript URL generator for Symfony framework based on FOSJsRoutingBundle sources v3.5.0.
 
 Unfortunately, there is no npm package for original js router, so here we have a copy.
