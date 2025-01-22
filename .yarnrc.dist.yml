@@ -1,0 +1,7 @@
+logFilters:
+  - code: YN0013
+    level: discard
+  - code: YN0019
+    level: discard
+
+yarnPath: .yarn/releases/yarn-4.6.0.cjs
